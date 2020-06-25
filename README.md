@@ -20,7 +20,7 @@ This is the head of the data we will use.
 
 ![Incidents Data](./img/read_in_data.png)
 
-I acquired the data at data.nashville.gov in multiple CSVs and globbed them in python
+I acquired the data at https://data.nashville.gov in multiple CSVs and globbed them in python
 
 ![Glob Incidents](./img/glob_incidents.png)
 
